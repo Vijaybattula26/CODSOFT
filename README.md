@@ -13,8 +13,7 @@ Internship Tasks - CodSoft Data Science Internship (July Batch B38)
 
 ## 🙋‍♂️ Completed by: **Vijay Battula**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/vijay-battula-29a131336)  
-📧 vijaybattula1426@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/vijay-battula-29a131336)    
 🎯 Internship: [CodSoft](https://www.codsoft.in/) | July 2025 – Batch B38
 
 ---
